@@ -1,0 +1,36 @@
+* { 
+    padding: 0px;
+    margin : 0px;
+    box-sizing:border-box;
+}
+
+
+
+
+
+
+
+
+.header-superior {
+        height:71px;
+        width:100vw;
+        background-color :#3750B3   
+        
+    
+        
+}
+
+.foto-principal {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+         height: 100vh;
+         width: 100vw;        
+         margin-bottom:56px;
+         padding: 56px;
+
+        
+        
+
+}
+    
