@@ -1,36 +1,37 @@
-* { 
-    padding: 0px;
-    margin : 0px;
-    box-sizing:border-box;
+*
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+ {
+        padding: 0px;
+        margin: 0px;
+        box-sizing: border-box;
 }
 
+.left {
 
-
-
-
-
-
+        font-size: 67px;
+        font-family:inter;
+        font-weight: normal;
+}
 
 .header-superior {
-        height:71px;
-        width:100vw;
-        background-color :#3750B3   
-        
-    
-        
+        height: 71px;
+        width: 150vw;
+        background-color: #3750B3
 }
 
 .foto-principal {
         display: flex;
         justify-content: center;
         align-items: center;
-         height: 100vh;
-         width: 100vw;        
-         margin-bottom:56px;
-         padding: 56px;
-
-        
-        
-
+        height: 100vh;
+        width: 100vw;
+        margin-bottom: 56px;
+        padding: 156px;
 }
-    
+
+.titulo {
+        font-size: 67px;
+        font-family:inter;
+        font-weight: normal;
+}
